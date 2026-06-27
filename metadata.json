@@ -1,0 +1,6 @@
+{
+  "name": "Social Search Engine",
+  "description": "A robust natural language search engine that searches, analyzes, and provides in-depth summaries for social media posts and multimedia content using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
